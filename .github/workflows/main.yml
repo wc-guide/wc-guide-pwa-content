@@ -23,4 +23,4 @@ jobs:
         user: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PASSWORD }}
         localDir: "lang"
-        remoteDir: "test"
+        remoteDir: ${{ secrets.FTP_REMOTEROOT }} 
