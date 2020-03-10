@@ -21,6 +21,6 @@ jobs:
     - name: Upload ftp
       uses: SamKirkland/FTP-Deploy-Action@3.0.0
       with:
-        ftp-server: ${{ secrets.FTP_HOST }}/hello/
+        ftp-server: ${{ secrets.FTP_HOST }}${{ FTP_REMOTEFOLDER }}
         ftp-username: ${{ secrets.FTP_USER }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
