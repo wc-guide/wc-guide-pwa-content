@@ -1,5 +1,7 @@
 /* RaiseNow Form */
 
+.donate h2 { margin:2rem 0 1rem 0; }
+
 #lema-container.lema-container .lema-content.lema-accordion .lema-step-content {
     padding: 30px 0 30px 0 !important;
 }
