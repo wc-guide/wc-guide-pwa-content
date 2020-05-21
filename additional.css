@@ -1,6 +1,6 @@
 /* RaiseNow Form */
 
-.donate h2 { margin:2rem 0 2rem 0 !important; }
+.donate h2 { margin:2rem 0 3rem 0 !important; font-size:2.5rem !important; }
 .donate .note { font-size:90%; background:#fff; line-height:1.4; border:1px solid #999; margin:2rem 0 1rem !important; padding:1rem !important;}
 
 #lema-container.lema-container .lema-content.lema-accordion .lema-step-content {
@@ -9,6 +9,6 @@
 
 #lema-container.lema-container .select2-container.select2-container .select2-choice {font-size:16px !important;}
 #lema-container.lema-container .lema-amount-box-amount {font-size:2em !important}
-#lema-container.lema-container .lema-amount-box {width:70px !important;height:70px !important; margin-right:1rem;}
+#lema-container.lema-container .lema-amount-box {width:70px !important;height:70px !important; margin-right:1.5rem !important;}
 #lema-container.lema-container .lema-amount-box-custom-input {width:56px !important; left:5px !important;font-size:16px !important;}
 #lema-container.lema-container .lema-amount-box-custom .lema-input-text {height:36px !important; }
