@@ -1,3 +1,9 @@
+/* Styles */
+
+.page-content .grid-container-3-1 img {
+    max-height:50px !important;
+}
+
 /* RaiseNow Form */
 
 .donate h2 { margin:2rem 0 3rem 0 !important; font-size:2.5rem !important; }
