@@ -6,6 +6,8 @@
 
 .home-donation {padding:1em !important; background-color:white !important; color:#000 !important;}
 
+.home-donation svg {height:10px; color:#cc0000;}
+
 /* RaiseNow Form */
 
 .donate h2 { margin:2rem 0 3rem 0 !important; font-size:2.5rem !important; }
