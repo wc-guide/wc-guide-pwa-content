@@ -63,6 +63,7 @@
     "offline_page_request": "Les informations de la page n'ont pas pu \u00eatre charg\u00e9es",
     "offline_form": "Les formulaires ne peuvent pas \u00eatre trait\u00e9s hors ligne. Assure-toi d'avoir une connexion Internet active.",
     "ok": "Ok",
+    "error_loading_entries": "Nous avons un problème avec l'interface de données pour le moment. Les nouvelles entrées n'ont donc pas pu être chargées. Veuillez recharger la page.",
     "update_version": "Version {version}",
     "update_updating": "Nouvelle version sera install\u00e9e",
     "update_now": "Mettre \u00e0 jour maintenant",

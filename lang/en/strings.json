@@ -63,6 +63,7 @@
     "offline_entries_request": "New entries could not be loaded",
     "offline_page_request": "Page information could not be loaded",
     "offline_form": "Forms cannot be processed offline. Please make sure you have an active Internet connection.",
+    "error_loading_entries": "We have a problem with the data interface at the moment. Therefore the new entries could not be loaded. Please reload the page.",
     "ok": "Ok",
     "update_version": "Version {version}",
     "update_updating": "Installing new version",

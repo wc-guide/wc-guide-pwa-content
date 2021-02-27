@@ -63,6 +63,7 @@
     "offline_page_request": "Non \u00e8 stato possibile caricare le informazioni della pagina",
     "offline_form": "I moduli non possono essere elaborati offline. Per favore, assicurati di avere una connessione Internet attiva.",
     "ok": "Ok",
+    "error_loading_entries": "Al momento abbiamo un problema con l'interfaccia dati. Pertanto le nuove voci non potevano essere caricate. Si prega di ricaricare la pagina.",
     "update_version": "Versione {version}",
     "update_updating": "Nuova versione verr\u00e0 installata",
     "update_now": "Aggiornare ora",
