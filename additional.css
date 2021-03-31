@@ -22,3 +22,15 @@
 #lema-container.lema-container .lema-amount-box-custom-input {width:56px !important; left:5px !important;font-size:16px !important;}
 #lema-container.lema-container .lema-amount-box-custom .lema-input-text {height:36px !important; }
 #lema-container.lema-container .lema-radio-label.lema-radio-label-interval {margin-right:0 !important}
+
+.navigation-element.navigation-element--add, .toilet__url-failure {
+    display: none;
+}
+
+.toilet__operator {
+    display: none;
+}
+
+.toilet__access {
+	display: none;
+}
