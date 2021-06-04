@@ -30,3 +30,8 @@
 .toilet__access {
 	display: none;
 }
+
+.toilet__url-osm {
+    color: #36c;
+    text-decoration: underline;
+}
