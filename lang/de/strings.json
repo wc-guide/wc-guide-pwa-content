@@ -65,7 +65,7 @@
     "offline_entries_request": "Neue Eintr\u00e4ge konnten nicht geladen werden",
     "offline_page_request": "Seiteninformationen konnten nicht geladen werden",
     "offline_form": "Formulare k\u00f6nnen offline nicht verarbeitet werden. Bitte stelle sicher, dass Du eine aktive Internetverbindung hast.",
-    "error_loading_entries": "Die Einträge konnten leider nicht geladen werden. Sie können näher in die Karte zoomen um die Anzahl Einträge zu verringer. Laden Sie dann die Seite neu. In der Zwischenzeit arbeiten wir weiter an der Lösung des Problems.",
+    "error_loading_entries": "Es besteht ein Problem mit der Datenschnittstelle, weshalb die Eintr\u00e4ge nicht angezeigt werden k\u00f6nnen. Versuchen Sie die Seite neu zu laden. In der Zwischenzeit arbeiten wir weiter an der L\u00f6sung des Problems.",
     "ok": "Ok",
     "update_version": "Version {version}",
     "update_updating": "Neue Version wird installiert",
