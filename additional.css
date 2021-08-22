@@ -48,3 +48,16 @@
     font-weight: bold;
     font-size: 1.2em;
 }
+
+#manual {
+    padding-top: 1em !important;
+}
+
+#manual span {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    line-height: 1.2;
+    margin-right: 0.25em;
+}
