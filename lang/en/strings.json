@@ -1,10 +1,6 @@
 {
-<<<<<<< Updated upstream
-    "meta_description": "The largest directory of public toilets",
-=======
     "eurokey_source": "Source",
-    "meta_description": "WC-Guide is the largest directory of public toilets",
->>>>>>> Stashed changes
+    "meta_description": "The largest directory of public toilets",
     "claim": "When nature calls",
     "menu_search": "Search",
     "menu_list": "List",
