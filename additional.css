@@ -4,6 +4,8 @@
 
 .page-content .grid-container-3-1 img { max-height:45px !important; float: none !important; }
 
+.page-content a {background-image: none !important;}
+
 .home-donation {line-height:1.4; padding:0.5em 1em !important; background-color:white !important; color:#000 !important; grid-template-columns: 1fr 10% !important; border: 1px solid #ccc; border-radius: 0.5em;}
 .home-donation svg {height:20px; color:#cc0000; float:right;}
 
