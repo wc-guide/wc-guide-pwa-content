@@ -21,7 +21,7 @@ jobs:
     - name: Upload ftp
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: ${{ env.FTP_HOST }}
-        username: ${{ env.FTP_USER }}
+        server: ${{ vars.FTP_HOST }}
+        username: ${{ vars.FTP_USER }}
         password: ${{ secrets.FTP_PASSWORD }}
-        server-dir: ${{ env.FTP_REMOTEFOLDER }}
+        server-dir: ${{ vars.FTP_REMOTEFOLDER }}
