@@ -19,7 +19,7 @@ jobs:
       with:
         fetch-depth: 2
     - name: Upload ftp
-      uses: SamKirkland/FTP-Deploy-Action@3.0.0
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         ftp-server: ${{ secrets.FTP_HOST }}${{ secrets.FTP_REMOTEFOLDER }}
         ftp-username: ${{ secrets.FTP_USER }}
