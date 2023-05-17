@@ -67,5 +67,10 @@ div#manual span {
 }
 
 .cookiebanner__controls {
-  margin-left: 2em;
+  margin-left: 2em !important;
+}
+
+.cookiebanner__privacy {
+  text-decoration: underline !important;
+  color: #ffeca0 !important;
 }
