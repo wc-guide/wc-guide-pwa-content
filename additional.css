@@ -65,3 +65,7 @@ div#manual span {
     line-height: 1.2;
     margin-right: 0.2em;
 }
+
+.cookiebanner__controls {
+  margin-left: 2em;
+}
