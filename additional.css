@@ -86,3 +86,13 @@ table#cookies td {
   padding: 5px; 
 }
 
+.shadowbox {
+    width: 96% !important;
+    max-width: 1000px !important;
+}
+
+@media only screen and (min-width: 1024px) {
+    .shadowbox {
+        padding:4rem !important;
+    }
+}
