@@ -96,3 +96,7 @@ table#cookies td {
         padding:4rem !important;
     }
 }
+
+.shadowbox__title {
+    margin-bottom: 1em !important;
+}
