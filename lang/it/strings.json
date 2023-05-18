@@ -78,9 +78,9 @@
     "feedback_email": "Indirizzo e-mail",
     "feedback_browserdata": "Accetto che dati tecnici sul mio dispositivo saranno inviati insieme al feedback. Questi dati sono completamente anonimi e non consentono di trarre conclusioni sulla mia persona, ma aiutano ad analizzare eventuali problemi.",
     "feedback_success": "Indirizzo e-mail (per eventuali richieste di chiarimenti)",
-    "cookiebanner": "Questo sito Web utilizza i cookie per offrire un'esperienza ottimale. Continuando a utilizzare il sito web, l'utente accetta l'uso dei cookie.",
+    "cookiebanner": "Questo sito web utilizza i cookie per memorizzare la lingua utilizzata e per le statistiche anonime dei visitatori. Continuando a utilizzare il sito web, si acconsente al loro utilizzo. Per ulteriori informazioni al riguardo, consultare il nostro sito ",
     "cookiebanner_privacy": "Informativa sulla privacy",
-    "cookiebanner_agree": "Va bene, capito",
+    "cookiebanner_agree": Accettare",
     "browser_error": "Il vostro browser web \u00e8 obsoleto. Aggiorna il vostro browser per una maggiore sicurezza, velocit\u00e0 e convenienza su questo sito.",
     "mapbox_satelite": "Satellite",
     "mapbox_custom": "Carta"

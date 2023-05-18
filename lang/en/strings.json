@@ -77,9 +77,9 @@
     "feedback_name": "Name",
     "feedback_email": "E-Mail address (for eventual queries)",
     "feedback_browserdata": "I agree that some technical data about my device will be sent along with the feedback. This data is completely anonymous and does not lead to any personal information about me, but helps to solve problems.",
-    "cookiebanner": "This website uses cookies to provide you with an optimal experience. By continuing to use the website, you agree to the use of cookies.",
+    "cookiebanner": "This website uses cookies to store the language used and for anonymous visitor statistics. By continuing to use the website, you consent to their use. You can find more information about this in our ",
     "cookiebanner_privacy": "Privacy policy",
-    "cookiebanner_agree": "Ok, understood",
+    "cookiebanner_agree": "Accept",
     "browser_error": "Your web browser is outdated. Update your browser for more security, speed and convenience on this site.",
     "mapbox_satelite": "Satellite",
     "mapbox_custom": "Map"
