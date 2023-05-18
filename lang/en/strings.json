@@ -77,7 +77,7 @@
     "feedback_name": "Name",
     "feedback_email": "E-Mail address (for eventual queries)",
     "feedback_browserdata": "I agree that some technical data about my device will be sent along with the feedback. This data is completely anonymous and does not lead to any personal information about me, but helps to solve problems.",
-    "cookiebanner": "This website uses cookies to store the language used and for anonymous visitor statistics. By continuing to use the website, you consent to their use. You can find more information about this in our ",
+    "cookiebanner": "We use Matomo to collect anonymous visitor statistics. Matomo is configured so that no cookies containing personal information are stored on your device. However, please note that one cookie is set to store the currently used language of this website. By continuing to use our website, you consent to the use of this cookie and the anonymous visitor statistics. For more information on this, please see our ",
     "cookiebanner_privacy": "Privacy policy",
     "cookiebanner_agree": "Accept",
     "browser_error": "Your web browser is outdated. Update your browser for more security, speed and convenience on this site.",

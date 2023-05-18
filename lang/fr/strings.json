@@ -78,7 +78,7 @@
     "feedback_email": "Adresse e-mail",
     "feedback_browserdata": "J'accepte que des donn\u00e9es techniques sur mon appareil soient envoy\u00e9es avec le feedback. Ces donn\u00e9es sont totalement anonymes et ne permettent pas de tirer des conclusions sur ma personne, mais elles aident \u00e0 diagnostiquer d'\u00e9ventuels probl\u00e8mes.",
     "feedback_success": "Adresse e-mail (pour d'\u00e9ventuelles questions)",
-    "cookiebanner": "Ce site web utilise des cookies pour enregistrer la langue utilisée et pour les statistiques anonymes des visiteurs. En continuant à utiliser le site, vous acceptez cette utilisation. Vous trouverez de plus amples informations à ce sujet dans notre ",
+    "cookiebanner": "Nous utilisons Matomo pour collecter des statistiques anonymes sur les visiteurs. Matomo est configuré de manière à ce qu'aucun cookie contenant des informations personnelles ne soit enregistré sur votre appareil. Veuillez toutefois noter qu'un cookie est installé pour enregistrer la langue que vous utilisez actuellement sur ce site. En continuant à utiliser notre site web, vous acceptez l'utilisation de ce cookie et des statistiques anonymes sur les visiteurs. Vous trouverez de plus amples informations à ce sujet dans notre ",
     "cookiebanner_privacy": "D\u00e9claration de protection de donn\u00e9es",
     "cookiebanner_agree": "Accepter",
     "browser_error": "Votre navigateur Web est d\u00e9suet. Mettez \u00e0 jour votre navigateur pour plus de s\u00e9curit\u00e9, de rapidit\u00e9 et de commodit\u00e9 sur ce site.",
