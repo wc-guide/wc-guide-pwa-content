@@ -81,6 +81,7 @@
     "cookiebanner": "Nous utilisons Matomo pour collecter des statistiques anonymes sur les visiteurs. Matomo est configuré de manière à ce qu'aucun cookie contenant des informations personnelles ne soit enregistré sur votre appareil. Veuillez toutefois noter qu'un cookie est installé pour enregistrer la langue que vous utilisez actuellement sur ce site. En continuant à utiliser notre site web, vous acceptez l'utilisation de ce cookie et des statistiques anonymes sur les visiteurs. Vous trouverez de plus amples informations à ce sujet dans notre ",
     "cookiebanner_privacy": "D\u00e9claration de protection de donn\u00e9es",
     "cookiebanner_agree": "Accepter",
+    "cookiebanner_reject": "Dècliner",
     "browser_error": "Votre navigateur Web est d\u00e9suet. Mettez \u00e0 jour votre navigateur pour plus de s\u00e9curit\u00e9, de rapidit\u00e9 et de commodit\u00e9 sur ce site.",
     "mapbox_satelite": "Satellite",
     "mapbox_custom": "Carte"

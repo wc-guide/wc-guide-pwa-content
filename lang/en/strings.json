@@ -80,6 +80,7 @@
     "cookiebanner": "We use Matomo to collect anonymous visitor statistics. Matomo is configured so that no cookies containing personal information are stored on your device. However, please note that one cookie is set to store the currently used language of this website. By continuing to use our website, you consent to the use of this cookie and the anonymous visitor statistics. For more information on this, please see our ",
     "cookiebanner_privacy": "Privacy policy",
     "cookiebanner_agree": "Accept",
+    "cookiebanner_reject": "Decline",
     "browser_error": "Your web browser is outdated. Update your browser for more security, speed and convenience on this site.",
     "mapbox_satelite": "Satellite",
     "mapbox_custom": "Map"

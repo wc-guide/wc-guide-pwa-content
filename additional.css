@@ -100,3 +100,17 @@ table#cookies td {
 .shadowbox__title {
     margin-bottom: 1em !important;
 }
+
+.o-button {
+    background-color: #3d8d3e !important;
+}
+
+.reject-button {
+  cursor: pointer;
+  background-color: #7c2f2f;
+  color: #fff;
+  padding: .6em 1.6em;
+  border-radius: .4rem;
+  text-transform: uppercase;
+  position: relative;
+}

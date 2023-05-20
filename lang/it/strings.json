@@ -81,6 +81,7 @@
     "cookiebanner": "Utilizziamo Matomo per raccogliere statistiche anonime sui visitatori. Matomo è impostato in modo che nessun cookie contenente informazioni personali venga memorizzato sul vostro dispositivo. Tuttavia, si noti che viene impostato un cookie per memorizzare la lingua correntemente utilizzata su questo sito web. Continuando a utilizzare il nostro sito web, acconsentite all'uso di questo cookie e delle statistiche anonime dei visitatori. Per ulteriori informazioni al riguardo, consultare il nostro sito ",
     "cookiebanner_privacy": "Informativa sulla privacy",
     "cookiebanner_agree": "Accettare",
+    "cookiebanner_reject": "Rifiutare",
     "browser_error": "Il vostro browser web \u00e8 obsoleto. Aggiorna il vostro browser per una maggiore sicurezza, velocit\u00e0 e convenienza su questo sito.",
     "mapbox_satelite": "Satellite",
     "mapbox_custom": "Carta"
