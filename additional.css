@@ -117,10 +117,10 @@ table#cookies td {
 
 #wc-guide-error {
     position: absolute;
-    top:40%;
-    left:600px;
+    top:10%;
+    left:500px;
     font-size:2rem;
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.7);
     border-radius: 8px;
     padding:1em;
     width:400px;
