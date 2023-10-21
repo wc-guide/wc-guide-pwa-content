@@ -117,7 +117,7 @@ table#cookies td {
 
 #wc-guide-error {
     position: absolute;
-    top:50%;
+    top:40%;
     left:600px;
     font-size:1.5em;
     background-color: rgba(0,0,0,0.5);
@@ -125,4 +125,9 @@ table#cookies td {
     padding:1em;
     width:400px;
     color: white;
+}
+
+#wc-guide-error p {
+    font-size:2em;
+    color:white;
 }
