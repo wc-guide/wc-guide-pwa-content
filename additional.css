@@ -143,3 +143,39 @@ table#cookies td {
   line-height: 1.4;
   width:300px;
 }
+
+[lang=fr] .map__logo::after {
+  content: "Le WC-Guide n'est actuellement pas disponible en raison d'une erreur de serveur.";
+  background: rgba(0,0,0,0.7);
+  display: block;
+  color: white;
+  margin-top: 1em;
+  padding: 1em;
+  border-radius: 4px;
+  line-height: 1.4;
+  width:300px;
+}
+
+[lang=en] .map__logo::after {
+  content: "The WC guide is currently unavailable due to a server error.";
+  background: rgba(0,0,0,0.7);
+  display: block;
+  color: white;
+  margin-top: 1em;
+  padding: 1em;
+  border-radius: 4px;
+  line-height: 1.4;
+  width:300px;
+}
+
+[lang=it] .map__logo::after {
+  content: "Il WC-Guide non è attualmente disponibile a causa di un errore del server.";
+  background: rgba(0,0,0,0.7);
+  display: block;
+  color: white;
+  margin-top: 1em;
+  padding: 1em;
+  border-radius: 4px;
+  line-height: 1.4;
+  width:300px;
+}
