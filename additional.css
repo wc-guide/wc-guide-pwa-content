@@ -133,7 +133,7 @@ table#cookies td {
 }
 
 [lang=de] .map__logo::after {
-  content: "Der WC-Guide ist wegen eines Serverfehlers aktuell nicht verfügbar. Danke für Ihr Verständnis.";
+  content: "Der WC-Guide ist wegen eines Serverfehlers aktuell nicht verfügbar.";
   background: rgba(0,0,0,0.7);
   display: block;
   color: white;
@@ -141,4 +141,5 @@ table#cookies td {
   padding: 1em;
   border-radius: 4px;
   line-height: 1.4;
+  width:300px;
 }
